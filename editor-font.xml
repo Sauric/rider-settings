@@ -4,8 +4,8 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_SIZE_2D" value="15.0" />
     <option name="FONT_FAMILY" value="CaskaydiaCove NF" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Book" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Book" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="SemiBold" />
+    <option name="FONT_BOLD_SUB_FAMILY" />
     <option name="LINE_SPACING" value="1.6" />
   </component>
 </application>
